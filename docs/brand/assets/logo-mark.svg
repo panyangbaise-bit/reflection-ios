@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>复盘了 · mark</title>
+  <rect x="61.44" y="63.53" width="901.12" height="663.32" rx="31.29" fill="#C9D3EE"/>
+  <rect x="88.56" y="90.64" width="846.89" height="609.09" rx="4.17" fill="#FBFAF4"/>
+  <path d="M 407.70 739.37 L 860.35 935.44" fill="none" stroke="#14181D" stroke-width="50.06" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 637.16 739.37 L 163.65 935.44" fill="none" stroke="#14181D" stroke-width="50.06" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 134.45 597.52 L 259.60 459.85 L 343.04 530.77 L 691.39 272.12" fill="none" stroke="#14181D" stroke-width="33.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 659.89 344.81 L 691.39 272.12 L 612.65 281.19" fill="none" stroke="#14181D" stroke-width="33.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="641.33" y="527.64" width="171.05" height="29.20" rx="14.60" fill="#14181D"/>
+  <rect x="641.33" y="605.87" width="108.47" height="29.20" rx="14.60" fill="#14181D"/>
+  <rect x="641.33" y="449.42" width="244.05" height="29.20" rx="14.60" fill="#3D6BFF"/>
+</svg>

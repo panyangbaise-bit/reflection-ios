@@ -1,0 +1,90 @@
+{
+  "designGeneration": 27,
+  "document": {
+    "fillType": "automatic-gradient",
+    "fill": {
+      "light": "#F2EEE4",
+      "dark": "#171A1F",
+      "tinted": "#E8E8E8"
+    }
+  },
+  "groups": [
+    {
+      "name": "Conclusion",
+      "specular": true,
+      "lighting": "individual",
+      "shadow": "none"
+    },
+    {
+      "name": "Ink",
+      "specular": true,
+      "lighting": "individual",
+      "shadow": "none"
+    },
+    {
+      "name": "Hardware",
+      "specular": true,
+      "lighting": "individual",
+      "shadow": "none"
+    },
+    {
+      "name": "Board",
+      "specular": true,
+      "lighting": "individual",
+      "shadow": "none"
+    }
+  ],
+  "layers": [
+    {
+      "name": "Conclusion rule",
+      "asset": "accent.svg",
+      "group": "Conclusion",
+      "fills": {
+        "light": "#3D6BFF",
+        "dark": "#8FA6FF",
+        "tinted": "#6E6E6E"
+      }
+    },
+    {
+      "name": "Trend line, arrow and analysis rules",
+      "asset": "ink.svg",
+      "group": "Ink",
+      "fills": {
+        "light": "#14181D",
+        "dark": "#171A1F",
+        "tinted": "#242424"
+      }
+    },
+    {
+      "name": "Easel legs",
+      "asset": "hw.svg",
+      "group": "Hardware",
+      "fills": {
+        "light": "#14181D",
+        "dark": "#B8B2A4",
+        "tinted": "#B0B0B0"
+      }
+    },
+    {
+      "name": "Writing surface",
+      "asset": "surface.svg",
+      "group": "Board",
+      "fills": {
+        "light": "#FBFAF4",
+        "dark": "#D6D1C3",
+        "tinted": "#FFFFFF"
+      }
+    },
+    {
+      "name": "Frame",
+      "asset": "frame.svg",
+      "group": "Board",
+      "fillType": "automatic-gradient",
+      "fills": {
+        "light": "#C9D3EE",
+        "dark": "#3A4356",
+        "tinted": "#ABABAB"
+      }
+    }
+  ]
+}

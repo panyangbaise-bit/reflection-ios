@@ -1,0 +1,15 @@
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+build/
+.swiftpm/
+.env
+.env.*
+!.env.example
+*.p12
+*.mobileprovision
+*.ipa
+*.xcarchive
+portfolio-v1.json
